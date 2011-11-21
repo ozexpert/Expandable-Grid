@@ -1,0 +1,11 @@
+This project is not completed yet.
+
+Intro: 
+Expandable Grid is an extension to Skeleton Grid (http://getskeleton.com) to have flexible grid layout for screen width greater than 960 pixels. 
+
+Unless other CSS Grid framework, I've used % (percentage) to set width for those sixteen columns, so that if you are targeting bigger screen size monitors or TVs, you could easily use this extension to make layouts fit depending on the screen sizes. 
+
+If you don't use Skeleton Grid with this, even for smaller screen devices such as mobile devices will have the same layout with different widths for those columns. 
+
+License: 
+MIT License
